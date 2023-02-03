@@ -12,10 +12,7 @@ public class GitLabHelper {
 
     public void PrintWelcomeMessage() {
         System.out.printf("This is a lesson on git made by: %s", Arrays.toString(persons));
-<<<<<<< HEAD
-=======
         System.out.println(" Do not eat eggs.");
->>>>>>> c5761f5e2ab70b89433e0919301091aaf4629e51
     }
 
 }
